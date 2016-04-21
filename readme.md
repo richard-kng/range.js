@@ -1,6 +1,4 @@
-# js-util-range
-
-![logo](logo/js-util-range-logo.png)
+# ![logo](logo/js-util-range-logo.png)
 
 # License
 
